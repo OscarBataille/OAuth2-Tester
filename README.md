@@ -15,4 +15,4 @@ This script will test for the full Authorization Code Grant flow:
 3. Set the variables in the script.
 4. Modify the code that test the API or add a custom repsonse handler (ex: on login fail).
 4. Run the script with:
-`node test_oauth.js YOUR_USERNAME YOUR_PASSWORD`
+`node OAuth2-Auth-code.js YOUR_USERNAME YOUR_PASSWORD`
